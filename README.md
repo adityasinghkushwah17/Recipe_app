@@ -9,9 +9,9 @@ MyRecipeApp is a sleek and stylish recipe application built using Kotlin and Jet
 - **Modern UI**: A smooth and stylish user interface using Material Design 3.
 
 ## Screenshots
-first Screen ![1](https://github.com/adityasinghkushwah17/Recipe_app/assets/130901654/2f434a6b-9871-409d-ac74-583e573d6f59)
-![Home Screen](![2](https://github.com/adityasinghkushwah17/Recipe_app/assets/130901654/81635294-21a7-42b5-a0f1-a007d4e98a5c))
-![Category Details](![3](https://github.com/adityasinghkushwah17/Recipe_app/assets/130901654/19afcec2-f8e9-419d-a57a-87d011356fcc))
+
+![2](https://github.com/adityasinghkushwah17/Recipe_app/assets/130901654/81635294-21a7-42b5-a0f1-a007d4e98a5c)
+![3](https://github.com/adityasinghkushwah17/Recipe_app/assets/130901654/19afcec2-f8e9-419d-a57a-87d011356fcc)
 
 ## Tech Stack
 
